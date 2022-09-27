@@ -6,4 +6,4 @@ entry_points:
   main:
     parameters:
       features: {type: string, default: 'features_1b'}
-    command: "python ml_trial_2.py {feature_choice}"
+    command: "python ml_trial_2.py {features}"
