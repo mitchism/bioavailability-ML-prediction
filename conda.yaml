@@ -1,0 +1,8 @@
+name: ml_trial_2
+
+dependencies:
+  - python>=3.9
+  - pip:
+      - pyspark>=3.3
+      - mlflow=1.29
+      - pandas
