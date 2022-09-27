@@ -1,0 +1,15 @@
+artifact_uri: file:///media/sf_Public/new%20BA%20folder/mlruns/0/e1e5143090a042e6bc0aca87233e65ab/artifacts
+end_time: 1664063782168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: e1e5143090a042e6bc0aca87233e65ab
+run_uuid: e1e5143090a042e6bc0aca87233e65ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1664063777049
+status: 3
+tags: []
+user_id: mitch

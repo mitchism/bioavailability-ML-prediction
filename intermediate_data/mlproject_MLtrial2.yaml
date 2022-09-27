@@ -1,0 +1,9 @@
+name: ML Trial 2
+
+conda_env: conda.yaml
+
+entry_points:
+  main:
+    parameters:
+      alpha: {type: string, default: 'features_1b'}
+    command: "python mlflow_MLtrial2_script.py {feature_choice}"
