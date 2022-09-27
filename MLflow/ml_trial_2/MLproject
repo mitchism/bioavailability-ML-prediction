@@ -5,5 +5,5 @@ conda_env: conda.yaml
 entry_points:
   main:
     parameters:
-      alpha: {type: string, default: 'features_1b'}
+      features: {type: string, default: 'features_1b'}
     command: "python ml_trial_2.py {feature_choice}"
